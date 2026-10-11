@@ -1,5 +1,53 @@
 # Customer Analysis using Python,SQL & Power BI
 Customer Trend Analysis
+## 📌 Project Overview
+
+This project presents an end-to-end retail analytics solution that transforms raw customer shopping data into meaningful business insights. The workflow integrates **Python** for data preprocessing, **SQL** for database management and analytical querying, and **Power BI** for interactive dashboard development.
+
+The objective is to understand customer purchasing behavior, identify high-value customer segments, evaluate the impact of discounts and subscriptions, and support business decision-making through data-driven insights.
+
+---
+
+## 🎯 Business Problem Statement
+
+A leading retail company aims to better understand customer shopping behavior to improve sales, customer satisfaction, and long-term loyalty. The company wants to identify the factors influencing purchasing decisions, such as demographics, discounts, reviews, seasons, payment methods, and shopping preferences.
+
+This project answers the business question:
+
+> **"How can customer shopping data be leveraged to identify trends, improve customer engagement, and optimize marketing and product strategies?"**
+
+---
+
+## 🧰 Tech Stack
+
+- 🐍 **Python**
+  - 🐼 Pandas
+  - 🔢 NumPy
+- 🗄️ **SQL**
+- 📊 **Power BI**
+- 📓 **Google colab**
+
+---
+
+## 📂 Project Structure
+
+```text
+Customer-Shopping-Behavior-Analysis/
+│
+├── 📁 Dataset/
+│   └── customer_shopping_behavior.xlsx
+│
+├── 📁 Python/
+│   └── Customer_Shopping_Analysis.ipynb
+│
+├── 📁 SQL/
+│   └── SQL_Queries.sql
+│
+├── 📁 PowerBI/
+│   └── Customer_Shopping_Dashboard.pbix
+│
+└── 📄 README.md
+```
 # 📊 Dataset Information
 
 The dataset contains **3,900 customer purchase records** and **18 attributes** representing customer demographics, shopping preferences, purchase history, payment methods, subscriptions, shipping preferences, discounts, and review ratings.

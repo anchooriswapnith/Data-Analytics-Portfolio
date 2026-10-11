@@ -188,3 +188,8 @@ This segmentation enables personalized marketing campaigns and improved customer
 - Retail Analytics
 - Dashboard Development
 - Business Insight Generation
+---
+
+# 👨‍🎓 Author
+
+**anchoori swapnith**

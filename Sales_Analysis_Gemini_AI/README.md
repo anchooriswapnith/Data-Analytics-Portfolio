@@ -116,47 +116,39 @@ The Google Sheets `Graphs` sheet brings together the main summaries and charts f
 
 The KPI table summarizes overall sales, profit, margin, order records, units sold, average order value, and average discount.
 ![KPI Summary](screenshot.png/02-kpi-summary.png)
-
-
-
+![Key Insights](Sales_Analysis_Gemini_AI/screenshot.png/03-key-insights.png)
 
 ### 2. Sales and Profit by Category
 
 The category summary compares sales and profit for Clothing, Electronics, Furniture, Grocery, and Office Supplies.
+![Category Summary Initial](Sales_Analysis_Gemini_AI/screenshot.png/04-category-summary-initial.png)
 
-![Category summary before formatting](screenshots/04-category-summary-initial.png)
-
-![Professionally formatted category summary](screenshots/05-category-summary-formatted.png)
-
+![Category Summary Formatted](Sales_Analysis_Gemini_AI/screenshot.png/05-category-summary-formatted.png)
 ### 3. Total Sales by Category
 
 The column chart compares sales across product categories, making the largest sales contributor easy to identify.
-
-![Total sales by category chart](screenshots/06-total-sales-by-category.png)
+![Total Sales by Category](Sales_Analysis_Gemini_AI/screenshot.png/06-total-sales-by-category.png)
 
 ### 4. Profit Share by Category
 
 The pie chart shows each category's contribution to total profit. This complements the sales chart because the highest-selling category is not necessarily the category with the highest profit margin.
-
-![Profit share by category pie chart](screenshots/07-profit-share-by-category.png)
+![Profit Share by Category](Sales_Analysis_Gemini_AI/screenshot.png/07-profit-share-by-category.png)
 
 ### 5. Sales and Profit by Region
 
 The regional summary table compares sales and profit for East, North, South, and West. A companion column chart highlights differences in regional sales.
-
-![Regional summary table and sales chart](screenshots/08-region-summary-and-sales-chart.png)
+![Region Summary and Sales Chart](Sales_Analysis_Gemini_AI/screenshot.png/08-region-summary-and-sales-chart.png)
 
 ### 6. Monthly Sales and Profit Trend
 
 The monthly table and chart compare January and February 2024. The data currently supports only a two-month comparison, not a complete 2024–2025 trend.
-
-![Monthly sales and profit trend](screenshots/09-monthly-sales-profit-trend.png)
+![Monthly Sales Profit Trend](Sales_Analysis_Gemini_AI/screenshot.png/09-monthly-sales-profit-trend.png)
 
 ### 7. Top 10 Sub-Categories by Sales
 
 The ranked table and horizontal bar chart identify the ten sub-categories with the highest total sales in the supplied dataset.
 
-![Top 10 sub-categories by sales](screenshots/10-top-10-subcategories.png)
+![Top 10 Subcategories](Sales_Analysis_Gemini_AI/screenshot.png/10-top-10-subcategories.png)
 
 ### 8. Final Graphs Sheet
 

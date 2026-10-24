@@ -115,7 +115,8 @@ The Google Sheets `Graphs` sheet brings together the main summaries and charts f
 ### 1. KPI Summary and Initial Insights
 
 The KPI table summarizes overall sales, profit, margin, order records, units sold, average order value, and average discount.
-<a href="Sales_Analysis_Gemini_AI/screenshot.png/02-kpi-summary.png">KPI Summary</a>
+![KPI Summary](screenshot.png/02-kpi-summary.png)
+
 
 
 

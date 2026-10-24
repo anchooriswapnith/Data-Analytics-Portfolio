@@ -154,7 +154,7 @@ The ranked table and horizontal bar chart identify the ten sub-categories with t
 
 The final screenshot shows the assembled report layout and the main visual elements together.
 
-![Final Google Sheets graphs sheet](screenshot.png/11-final-graphs-sheet.png)
+![Final Google Sheets graphs sheet](screenshot.png/Screenshot%202026-10-24%20191946.png)
 
 ## 🔍 Key Insights
 

@@ -162,7 +162,7 @@ The ranked table and horizontal bar chart identify the ten sub-categories with t
 
 The final screenshot shows the assembled report layout and the main visual elements together.
 
-![Final Google Sheets graphs sheet](screenshots/11-final-graphs-sheet.png)
+![Final Google Sheets graphs sheet](Sales_Analysis_Gemini_AI/screenshot.png/11-final-graphs-sheet.png)
 
 ## 🔍 Key Insights
 
